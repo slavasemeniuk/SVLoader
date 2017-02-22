@@ -1,0 +1,6 @@
+framework module SVLoader {
+  umbrella header "SVLoader-umbrella.h"
+
+  export *
+  module * { export * }
+}
